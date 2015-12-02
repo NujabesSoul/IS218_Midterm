@@ -1,4 +1,5 @@
-# For your project you are required to make a program that can read and write records to a CSV file.   It should demonstrate a MVC style design pattern through the creation of a single index page that can be used to route pages based on URL parameters as demonstrated in class.
+# IS218 Midterm
+For your project you are required to make a program that can read and write records to a CSV file.   It should demonstrate a MVC style design pattern through the creation of a single index page that can be used to route pages based on URL parameters as demonstrated in class.
 
 The default page should be the list of records and there should be a link to the page to add new records.
 
